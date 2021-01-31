@@ -1,0 +1,40 @@
+name: Python
+
+on:
+  push:
+    paths:
+    - 'python/**'
+    - 'deployments/**'
+    branches:
+    - '**'
+  pull_request:
+    paths:
+    - 'python/**'
+    - 'deployments/**'
+    branches:
+    - '**'
+
+
+jobs:
+  ci:
+    runs-on: ubuntu-18.04
+    defaults:
+      run:
+        working-directory: ./python
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Run image
+        uses: abatilo/actions-poetry@v2.0.0
+        with:
+          poetry-version: 1.1.2
+      - name: poetry install
+        run: poetry install
+      - name: BLACK
+        run: |
+          poetry run python -m black --check .
+          poetry run python -m isort **.py --check
+          poetry run python -m pyflakes .
+          poetry run python -m mypy .

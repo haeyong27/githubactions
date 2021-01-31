@@ -1,0 +1,134 @@
+aiohttp @ file:///Users/admin/Library/Caches/pypoetry/artifacts/c3/6f/39/0fe5baf6925e616085a5731bc9dd41bfe97a3150e629c3bf04ff1812d1/aiohttp-3.7.3-cp39-cp39-macosx_10_14_x86_64.whl
+alembic @ file:///Users/admin/Library/Caches/pypoetry/artifacts/6b/1b/69/72172e1c0cbdb75390156b39e98ea0e096754ac79ec3abe389550a325a/alembic-1.4.3-py2.py3-none-any.whl
+aniso8601 @ file:///Users/admin/Library/Caches/pypoetry/artifacts/83/58/b6/15926ced9a18ada68b9b81536cc23609555094a31b444811be36749cdc/aniso8601-7.0.0-py2.py3-none-any.whl
+appdirs @ file:///Users/admin/Library/Caches/pypoetry/artifacts/47/cf/4f/4ef02fb715aa36daeebad18cc5570126159c659c41c7b5ec46a7387d9b/appdirs-1.4.4-py2.py3-none-any.whl
+appnope==0.1.0
+astroid==2.4.2
+async-timeout @ file:///Users/admin/Library/Caches/pypoetry/artifacts/e1/e7/dc/347dacf16e20e4b15a992103281583f3a03db422172dec1c5f08d68c07/async_timeout-3.0.1-py3-none-any.whl
+attrs @ file:///Users/admin/Library/Caches/pypoetry/artifacts/f9/48/82/553e4bef24d3b294c0c18f27a7853f3ed151508efd144cb7ea37db1c48/attrs-20.3.0-py2.py3-none-any.whl
+aws==0.2.5
+backcall==0.2.0
+bcrypt==3.2.0
+black @ file:///Users/admin/Library/Caches/pypoetry/artifacts/56/00/d0/a3bee2cbd161f599bac7d8ee24fb2b17aeba39b53bc42724de21f352bf/black-20.8b1.tar.gz
+boto==2.49.0
+CacheControl==0.12.6
+cachy==0.3.0
+certifi @ file:///Users/admin/Library/Caches/pypoetry/artifacts/d8/df/24/ed696681f34f8916b0aef99138db9a94e37d54684b9829af34a7fd4e39/certifi-2020.12.5-py2.py3-none-any.whl
+cffi==1.14.4
+chardet @ file:///Users/admin/Library/Caches/pypoetry/artifacts/8f/6f/1c/8085d730ad63c462222af30d0d01c4bd0caca5287e40b63c1fe8f529b7/chardet-3.0.4-py2.py3-none-any.whl
+cleo==0.8.1
+click @ file:///Users/admin/Library/Caches/pypoetry/artifacts/e2/79/34/a23e9d2f683ed66be11ec3bd760dec3a2fe228cfdedf2071bcf0531b06/click-7.1.2-py2.py3-none-any.whl
+clikit==0.6.2
+crashtest==0.3.1
+cryptography==3.3.1
+cx-Oracle @ file:///Users/admin/Library/Caches/pypoetry/artifacts/3c/17/45/046014ee5084a8e8f39199e7baa2e26f7250722ce512646d9b9a1ca69d/cx_Oracle-8.1.0.tar.gz
+decorator==4.4.2
+devtools @ file:///Users/admin/Library/Caches/pypoetry/artifacts/4f/0e/93/13b39d2234ce7b11e1feecf3b13e5203e673de5e756f727c4be7cf6d04/devtools-0.6.1-py3-none-any.whl
+distlib==0.3.1
+dnspython==2.0.0
+ecdsa==0.14.1
+email-validator==1.1.2
+fabric==2.5.0
+fastapi @ file:///Users/admin/Library/Caches/pypoetry/artifacts/89/99/e1/6374b0456d55f4a74466305f4260c708ef6e2122daf8d3ec630c6f1578/fastapi-0.61.2-py3-none-any.whl
+fhirclient @ file:///Users/admin/backtest/src/fhirclient
+filelock==3.0.12
+flake8==3.8.4
+graphene @ file:///Users/admin/Library/Caches/pypoetry/artifacts/0c/6d/32/80b2303303454c937fa02480112db34a7c830ae16db45fa70cfd856408/graphene-2.1.8-py2.py3-none-any.whl
+graphql-core @ file:///Users/admin/Library/Caches/pypoetry/artifacts/d5/1f/da/a984d8cf1d82c33f9e4fea207924a9f75031d507d657d7404081d284f3/graphql_core-2.3.2-py2.py3-none-any.whl
+graphql-relay @ file:///Users/admin/Library/Caches/pypoetry/artifacts/f7/52/e4/aa4e6e5eb691280910ecb371e64a97620fc0c4f461954a24eb19893f1c/graphql_relay-2.0.1-py3-none-any.whl
+h11 @ file:///Users/admin/Library/Caches/pypoetry/artifacts/16/4b/5f/c120995b991707fb11cb7bbe81ae1790316ffd8bed1d279b690e1a497f/h11-0.11.0-py2.py3-none-any.whl
+html5lib==1.1
+idna @ file:///Users/admin/Library/Caches/pypoetry/artifacts/ef/7f/a9/19cc0b8760bdf6f696290c06532496f8bb29fbdaad044f852fed00ec82/idna-2.10-py2.py3-none-any.whl
+invoke==1.4.1
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+isodate @ file:///Users/admin/Library/Caches/pypoetry/artifacts/95/34/e8/bf99fab064e9305ca4f58f1804b8d30e544c06bcabed2658efd6783191/isodate-0.6.0-py2.py3-none-any.whl
+isort @ file:///Users/admin/Library/Caches/pypoetry/artifacts/2f/89/ff/a4d54bd639d160a170eb2afe78783f18ab8d1a021330a7f04ecab6778e/isort-5.6.4-py3-none-any.whl
+jedi @ file:///Users/admin/Library/Caches/pypoetry/artifacts/dd/f2/eb/07229d51e9fe5380624ca2970b00863c2a1c1b011fb745674cf1433029/jedi-0.17.2-py2.py3-none-any.whl
+jose==1.0.0
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+keyring==21.5.0
+lark-parser @ file:///Users/admin/Library/Caches/pypoetry/artifacts/60/68/16/15fa3c28edfd2a2a8029a62c473dca54930759c841551e4988f7be910c/lark_parser-0.11.1-py2.py3-none-any.whl
+lazy-object-proxy==1.4.3
+lockfile==0.12.2
+Mako @ file:///Users/admin/Library/Caches/pypoetry/artifacts/38/16/1c/9e6888eb0e0979dff05cbf56b4d9e1d40fd097afc8cc8105f8c7de420c/Mako-1.1.3-py2.py3-none-any.whl
+MarkupSafe @ file:///Users/admin/Library/Caches/pypoetry/artifacts/c6/26/82/e9526c4f85d19499c8a7a0573deea20f6320a3388ef8afdae5cfecbbfe/MarkupSafe-1.1.1.tar.gz
+mccabe==0.6.1
+more-itertools @ file:///Users/admin/Library/Caches/pypoetry/artifacts/7d/18/5b/12afd5e33694faf95db51e22aa54cfa3d1bafccb3829da451c61f5147a/more_itertools-8.6.0-py3-none-any.whl
+msgpack==1.0.0
+multidict @ file:///Users/admin/Library/Caches/pypoetry/artifacts/6f/f8/91/f3a9ce599ce298de994c997dd4cedc9c6bd53d1c4ce398aa34eb24e7c9/multidict-5.1.0-cp39-cp39-macosx_10_14_x86_64.whl
+mypy @ file:///Users/admin/Library/Caches/pypoetry/artifacts/27/70/0f/dedc216f4bb804889f12f78af571efe8280e5035b50e106e0d65409504/mypy-0.790-py3-none-any.whl
+mypy-extensions @ file:///Users/admin/Library/Caches/pypoetry/artifacts/92/45/bf/1807ce854ff668d92602207a37bfa9316def2a3f257bd03c4c5be4bc9b/mypy_extensions-0.4.3-py2.py3-none-any.whl
+names @ file:///Users/admin/Library/Caches/pypoetry/artifacts/41/a2/e7/99cc6d040820b20a4736efa115b49a027ec0b1c080299fa208cf1ca462/names-0.3.0.tar.gz
+packaging @ file:///Users/admin/Library/Caches/pypoetry/artifacts/db/54/83/98a39824fa0b536e47d8aefec68aaab371ec2164a3341697e5307effbb/packaging-20.8-py2.py3-none-any.whl
+paramiko==2.7.2
+parso @ file:///Users/admin/Library/Caches/pypoetry/artifacts/f3/cd/ca/acd87c17e91f28f45efa8541835e65b4b9b21ee05ec9da8114ac730fb6/parso-0.7.1-py2.py3-none-any.whl
+passlib==1.7.4
+pastel==0.2.1
+pathspec @ file:///Users/admin/Library/Caches/pypoetry/artifacts/40/8b/b2/80a6945971d8475bcc04d09afec4845855dd74f68da6a4c18bbf8f7784/pathspec-0.8.1-py2.py3-none-any.whl
+pexpect==4.8.0
+pickleshare==0.7.5
+pkginfo==1.6.1
+pluggy @ file:///Users/admin/Library/Caches/pypoetry/artifacts/29/58/fc/ed8b7451d3ef91a6465024f5656141da996e7aafd4d41a1659629a75e7/pluggy-0.13.1-py2.py3-none-any.whl
+poetry==1.1.4
+poetry-core==1.0.0
+prettytable==2.0.0
+promise @ file:///Users/admin/Library/Caches/pypoetry/artifacts/d6/c6/43/95f1e737b1dd79d3a5ac6cfb264a889716bab4cd9d28a9bc8c69591d53/promise-2.3.tar.gz
+prompt-toolkit==3.0.8
+psycopg2-binary @ file:///Users/admin/Library/Caches/pypoetry/artifacts/67/81/39/6b112e60aae4e637f9f5aec1d569f190bdbbc55b7101f1e92c9ef35f8d/psycopg2_binary-2.8.6-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl
+ptyprocess==0.6.0
+py @ file:///Users/admin/Library/Caches/pypoetry/artifacts/60/79/0b/c48bd9c2a989aa8b1eb7a67cd02b053c10734f2e4e5665f7995f09999c/py-1.10.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pycodestyle==2.6.0
+pycparser==2.20
+pydantic @ file:///Users/admin/Library/Caches/pypoetry/artifacts/07/72/69/1a2306322ab6443f48091bc3a65a832404436b73f5766279c3a885dc5e/pydantic-1.7.3-cp39-cp39-macosx_10_9_x86_64.whl
+pyflakes @ file:///Users/admin/Library/Caches/pypoetry/artifacts/c6/a2/76/8815e047ae91abaf39cdde4a16f52907ed96ae14e12a498dd0704cb43a/pyflakes-2.2.0-py2.py3-none-any.whl
+Pygments @ file:///Users/admin/Library/Caches/pypoetry/artifacts/da/1f/9e/3e341a71fdb1167e17fb9243cc33d0aec4a79734aa59e9c04e72f7163e/Pygments-2.7.2-py3-none-any.whl
+pylev==1.3.0
+pylint==2.6.0
+pyls-black @ file:///Users/admin/Library/Caches/pypoetry/artifacts/69/82/45/02697b406d2a2175ebaba739ff3cc601a52192b4ca6db88b3b7cf7e3bc/pyls_black-0.4.6-py3-none-any.whl
+pyls-isort @ file:///Users/admin/Library/Caches/pypoetry/artifacts/98/df/9e/ef68829bfa51c23f1002cf7a83162274c0a53c984a1e4133072ca45ebd/pyls-isort-0.2.0.tar.gz
+pyls-mypy @ file:///Users/admin/Library/Caches/pypoetry/artifacts/69/04/43/1ee7f0fc093d9a904620329c23aa90212c980d9a491e560e81988e9e60/pyls-mypy-0.1.8.tar.gz
+PyNaCl==1.4.0
+pyparsing @ file:///Users/admin/Library/Caches/pypoetry/artifacts/92/0f/cf/effdcd5d76a6186df0969f85b3b030284ff8058936d5016540b5258ea3/pyparsing-2.4.7-py2.py3-none-any.whl
+pytest @ file:///Users/admin/Library/Caches/pypoetry/artifacts/e4/88/dd/3dbff42e3c4462dc3d027f5024025571166cb35edee215ce93852a968c/pytest-5.4.3-py3-none-any.whl
+python-dateutil @ file:///Users/admin/Library/Caches/pypoetry/artifacts/93/67/cf/49f56d9e954addcfc50e5ffc9faee013c2eb00c6d77d56c6a22cb33b54/python_dateutil-2.8.1-py2.py3-none-any.whl
+python-dotenv @ file:///Users/admin/Library/Caches/pypoetry/artifacts/e3/92/c3/26980a0b9ac05a9afa82d3c6120afe6864eada1e344b6dd84dbf9f420f/python_dotenv-0.15.0-py2.py3-none-any.whl
+python-editor @ file:///Users/admin/Library/Caches/pypoetry/artifacts/43/75/a4/c8b6a02020de8bab9f4cb5f17ce34a4ef5e1c422e43f435471549db1ff/python_editor-1.0.4-py3-none-any.whl
+python-jose==3.2.0
+python-json-logger @ file:///Users/admin/Library/Caches/pypoetry/artifacts/6c/b2/9e/87d24622c6d60716f59f27298a0458888858784bc2ea70a34400f70ce6/python-json-logger-2.0.1.tar.gz
+python-jsonrpc-server @ file:///Users/admin/Library/Caches/pypoetry/artifacts/63/ac/f2/956a7e4f2145f6670c80a71051bf0a64ac0ccba632e3f126fd4eb6c149/python_jsonrpc_server-0.4.0-py3-none-any.whl
+python-language-server @ file:///Users/admin/Library/Caches/pypoetry/artifacts/f5/6f/96/f1816c3a4fa8888b91a4cb869638000d35efa152c716a0a244f16f739c/python_language_server-0.36.1-py2.py3-none-any.whl
+python-multipart @ file:///Users/admin/Library/Caches/pypoetry/artifacts/25/4c/ff/9a5ef909bebdea8556009425c7a3580430e2a78188c696dbaeda67ff38/python-multipart-0.0.5.tar.gz
+pytz @ file:///Users/admin/Library/Caches/pypoetry/artifacts/ff/e1/18/87d7d045f14172d7b610aee61619f3a4dcf140d6c4b171b94aedfc8f44/pytz-2020.5-py2.py3-none-any.whl
+pyzmq==20.0.0
+redis @ file:///Users/admin/Library/Caches/pypoetry/artifacts/1f/cc/e8/a2e4249977cc5b36425bd02e5ab9e4d4a586000e8798342ffd415576fb/redis-3.5.3-py2.py3-none-any.whl
+regex @ file:///Users/admin/Library/Caches/pypoetry/artifacts/dd/3c/54/6117f7271996788cb2af344de04348bd88e5e1b62d663f2e1c82132f56/regex-2020.11.13-cp39-cp39-macosx_10_9_x86_64.whl
+requests @ file:///Users/admin/Library/Caches/pypoetry/artifacts/b8/da/37/6da228022ad507a6725c51369c6f6a310e2f09cdaa7ff9081ea7a18074/requests-2.25.0-py2.py3-none-any.whl
+requests-toolbelt==0.9.1
+rsa==4.6
+Rx @ file:///Users/admin/Library/Caches/pypoetry/artifacts/3e/42/fa/57040de3378df2c8d1b596732e6666b9db676fc3e63c77aeb01c912679/Rx-1.6.1-py2.py3-none-any.whl
+shellingham==1.3.2
+six @ file:///Users/admin/Library/Caches/pypoetry/artifacts/dd/1c/65/ad0dea11136f5a869f072890a0eea955aa8fc35b90c85c55249fd3abfe/six-1.15.0-py2.py3-none-any.whl
+SQLAlchemy @ file:///Users/admin/Library/Caches/pypoetry/artifacts/40/a0/e3/6a402c4038b4f83b1058ca2e976cf09eb38be6d1d66176b75c2a7a5cf7/SQLAlchemy-1.3.20-cp39-cp39-macosx_10_14_x86_64.whl
+sqlalchemy-stubs @ file:///Users/admin/Library/Caches/pypoetry/artifacts/f9/eb/44/2801ec1478ce21f7681c8cf79b64bad7fc9554be5481d7fe095350ea01/sqlalchemy_stubs-0.3-py3-none-any.whl
+starlette @ file:///Users/admin/Library/Caches/pypoetry/artifacts/01/ff/79/e5ca5381f72248b8320e08456cb90fcb8ba4c0eab96cf295d2702e7907/starlette-0.13.6-py3-none-any.whl
+tartiflette @ file:///Users/admin/Library/Caches/pypoetry/artifacts/fb/2b/19/522871602d94b35da81759cc9092ce16117ad1f2aab3b34e89b7478180/tartiflette-1.3.0.tar.gz
+tartiflette-aiohttp @ file:///Users/admin/Library/Caches/pypoetry/artifacts/ea/9c/b7/60e26e6557494f4811ffff8cd45b366dc46bc8256d55677c58d17da9b7/tartiflette-aiohttp-1.4.0.tar.gz
+toml @ file:///Users/admin/Library/Caches/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+tomlkit==0.7.0
+tornado==6.1
+traitlets==5.0.5
+typed-ast @ file:///Users/admin/Library/Caches/pypoetry/artifacts/31/2b/fd/ae2dba5a915c33575ab7e0fa78d5ce3ce6eee3c7657e00608d740175b8/typed_ast-1.4.1-cp39-cp39-macosx_10_15_x86_64.whl
+typing-extensions @ file:///Users/admin/Library/Caches/pypoetry/artifacts/ab/c3/72/446cb2c521f10fc837619e8a7c68ed3c3bd74859bd625b7d74f38a159b/typing_extensions-3.7.4.3-py3-none-any.whl
+ujson @ file:///Users/admin/Library/Caches/pypoetry/artifacts/2f/dc/0c/aa5cb383e7e266dfa4b2a691cfb3b7f8ad855d06544de673160f146497/ujson-4.0.1-cp39-cp39-macosx_10_14_x86_64.whl
+urllib3 @ file:///Users/admin/Library/Caches/pypoetry/artifacts/1d/24/e5/f6f60fb2ccef1163f168600604eb0bdd6b4117a5d3ff39d17aabc770fe/urllib3-1.26.2-py2.py3-none-any.whl
+uvicorn @ file:///Users/admin/Library/Caches/pypoetry/artifacts/83/3e/db/692ca7b8c58680f850001e05e4a9489f8bc8eb16f2069b3da07aecad7f/uvicorn-0.12.3-py3-none-any.whl
+virtualenv==20.2.1
+vitalcare==0.1.0
+wcwidth @ file:///Users/admin/Library/Caches/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
+webencodings==0.5.1
+wrapt==1.12.1
+yarl @ file:///Users/admin/Library/Caches/pypoetry/artifacts/5b/3e/b4/b94ca634af6fbb9a677f39777f8a6a78c3d46d9c255399827adbe2a487/yarl-1.6.3-cp39-cp39-macosx_10_14_x86_64.whl
